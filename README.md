@@ -1,6 +1,6 @@
 ﻿# Endfield Toon Addon
 
-用于将导入到`Goo Engine`的模型快速替换成《明日方舟：终末地》风格卡渲材质，并自动挂载预设材质、几何节点、描边与部分场景辅助对象。
+基于新杨XIYAG大佬的仿终末地渲染节点制作，用于将导入到`Goo Engine`的模型快速替换成《明日方舟：终末地》风格卡渲材质，并自动挂载预设材质、几何节点、描边与部分场景辅助对象。
 
 ## 项目状态
 
@@ -8,7 +8,7 @@
 - 插件主体位于 `endfield_toon_addon/`。
 - 预设库位于 `endfield_toon_addon/presets/Chen.blend`。
 - 许可证使用 `GPL-3.0-or-later`
-- 作者许可
+- 原作者许可
 - <img width="646" height="198" alt="image" src="https://github.com/user-attachments/assets/6a191974-e57d-4d55-80de-582eaca531a3" />
 
 
