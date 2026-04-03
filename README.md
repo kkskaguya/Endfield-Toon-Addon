@@ -8,6 +8,9 @@
 - 插件主体位于 `endfield_toon_addon/`。
 - 预设库位于 `endfield_toon_addon/presets/Chen.blend`。
 - 许可证使用 `GPL-3.0-or-later`
+- 作者许可
+- <img width="646" height="198" alt="image" src="https://github.com/user-attachments/assets/6a191974-e57d-4d55-80de-582eaca531a3" />
+
 
 ## 主要功能
 
