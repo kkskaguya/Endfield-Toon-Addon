@@ -1,0 +1,15 @@
+﻿# Publish only the plugin package and repository docs.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/docs/
+!/docs/**
+!/endfield_toon_addon/
+!/endfield_toon_addon/**
+
+# Never publish caches or local build artifacts.
+**/__pycache__/
+*.py[cod]
+*.blend1
+*.zip
